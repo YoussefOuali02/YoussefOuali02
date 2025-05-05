@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/youssef-ouali-profile"><img src="https://img.shields.io/badge/-Youssef%20Ouali-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/youssef-ouali-profile"><img src="https://img.shields.io/badge/-Youssef%20Ouali-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:you.oua.16@gmail.com"><img src="https://img.shields.io/badge/-you.oua.16@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
