@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @YoussefOuali02
+### Hi, I'm Youssef 👋
+
+Full-Stack Software Engineer, currently building [Marché Pilote](https://github.com/YoussefOuali02), a public procurement SaaS platform with AI-assisted document generation. Open to Full-Stack / Software Engineer roles in Germany.
+
 <!---
 YoussefOuali02/YoussefOuali02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -7,16 +10,19 @@ You can click the Preview link to take a look at your changes.
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&logoColor=FF9900)\
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -33,4 +39,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/youssef-ouali-profile"><img src="https://img.shields.io/badge/-Youssef%20Ouali-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:you.oua.16@gmail.com"><img src="https://img.shields.io/badge/-you.oua.16@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
