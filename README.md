@@ -1,7 +1,6 @@
 ### Hi, I'm Youssef 👋
 
-Full-Stack Software Engineer, currently building [Marché Pilote](https://github.com/YoussefOuali02), a public procurement SaaS platform with AI-assisted document generation. Open to Full-Stack / Software Engineer roles in Germany.
-
+Full-Stack Software Engineer
 <!---
 YoussefOuali02/YoussefOuali02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
